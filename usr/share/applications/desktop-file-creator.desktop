@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desktop File Creator
+Exec=desktop-file-creator
+Icon=accessories-text-editor
+Categories=Utility;
+Terminal=false
